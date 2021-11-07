@@ -1,0 +1,4 @@
+In this Folder type "make" to complie, and type "make clean" to clear .o file.
+
+In this Folder type following command to excuted
+../bin/main ../benchmarks/X.info ../benchmarks/X.nets ../outputs/X.placement
